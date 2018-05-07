@@ -1,8 +1,8 @@
 {
   "name": "MEGOGO",
   "date": "2015.05.26",
-  "version": "1.5.10",
-  "description": "MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.",
+  "version": "1.6.0",
+  "description": "MEGOGO is an online cinema with video content that has a total duration of 20 000 hours. A large part of the MEGOGO collection is available to users free of charge.",
   "author": {
     "name": "StalkerApps"
   },
@@ -16,7 +16,7 @@
     "backgroundColor": "#171717",
     "name": "MEGOGO",
     "legacy": true,
-    "description": "MEGOGO is an online cinema with video content that has a total duration of 20 hours. A large part of the MEGOGO collection is available to users free of charge.",
+    "description": "MEGOGO is an online cinema with video content that has a total duration of 20 000 hours. A large part of the MEGOGO collection is available to users free of charge.",
     "icons": {
       "paths": {
         "480": "img/480/",
